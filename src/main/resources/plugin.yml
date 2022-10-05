@@ -1,0 +1,7 @@
+name: VelocityCheck
+version: '${project.version}'
+main: io.paper.velocity.Main
+api-version: 1.8
+commands:
+  kbtest:
+    description: kb test
